@@ -2,7 +2,7 @@
 
 Les tasques que caldrà desenvolupar en aquest projecte són les següents:
 
-- **T01** – Gestors de contrasenyes. - [Gestor de contrasenyes](/Projecte-3/tasca01)
+- **T01** – Gestors de contrasenyes. - [Gestor de contrasenyes](/Projecte-3/Tasques/tasca01)
 - **T02** – Gestió de l’emmagatzematge. Sessions teòriques.  
 - **T03** – Gestió flexible de discos (LVM i Espais d’emmagatzematge)  
 - **T04** – Serveis de Directori. LDAP  
