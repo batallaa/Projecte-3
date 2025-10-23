@@ -72,19 +72,19 @@ El seu model open source i el xifratge complet garanteixen confiança, privacita
 ### Instal·lació i Configuració Inicial
 Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
 
-![Captura 1](img/imatge01)
+![Captura 1](img/imatge01.png)
 
 A la web de Bitwarden, descarregarem l’extensió.
 
-![Captura 2](img/imatge02)
+![Captura 2](img/imatge02.png)
 
 Crearem un compte si no en tenim.
 
-![Captura 3](img/imatge03)
+![Captura 3](img/imatge03.png)
 
 Configurarem la contrasenya mestre. Haurem de donar un indici sobre la contrasenya.
 
-![Captura 4](img/imatge04)
+![Captura 4](img/imatge04.png)
 
 Un cop configurat, obrim l’extensió o la web.
 
@@ -93,7 +93,7 @@ Un cop configurat, obrim l’extensió o la web.
 ### Generació de Contrasenyes Segures
 Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
 
-![Captura 5](img/imatge05)
+![Captura 5](img/imatge05.png)
 
 A l’entrar, anem a les eines i anem a l’apartat on posa **“generador”**.  
 Aquest apartat serveix per crear contrasenyes automàticament. Podem modificar com la volem seleccionant la longitud que volguem, si volem lletres majúscules, minúscules, números o símbols.  
@@ -105,21 +105,21 @@ També ens ofereix un historial de les anteriors contrasenyes generades, contras
 
 #### Com desar una credencial d'un compte de correu electrònic
 
-![Captura 6](img/imatge06)
+![Captura 6](img/imatge06.png)
 
 Per desar una credencial d’un compte de correu electrònic, obrirem Bitwarden i anirem a “cajas fuertes”.  
 Després, crearem un nou element on es mostra a la captura.
 
-![Captura 7](img/imatge07)
+![Captura 7](img/imatge07.png)
 
 A dins, omplim els apartats que ens demana. Posarem el nom que vulguem tenir al correu, la carpeta on vulguem guardar la contrasenya, després el nostre usuari i la contrasenya.  
 Tenim l’opció de generar les dues últimes automàticament si no sabem què posar o volem que la contrasenya sigui més segura.
 
-![Captura 8](img/imatge08)
+![Captura 8](img/imatge08.png)
 
 Al crear-ho, tenim opció d’editar-ho o eliminar la nova contrasenya.
 
-![Captura 9](img/imatge09)
+![Captura 9](img/imatge09.png)
 
 Comprovem que ens apareix a la llista de passwords.
 
@@ -127,15 +127,15 @@ Comprovem que ens apareix a la llista de passwords.
 
 #### Com desar una credencial d'una aplicació o servei web
 
-![Captura 10](img/imatge10)
+![Captura 10](img/imatge10.png)
 
 Per guardar una credencial de qualsevol lloc web, anirem a la caixa forta i pulsarem “nuevo” després “Inicio de sesión”.
 
-![Captura 11](img/imatge11)
+![Captura 11](img/imatge11.png)
 
 En el meu cas ho faré com si fos el meu compte de Netflix, però és un exemple.
 
-![Captura 12](img/imatge12)
+![Captura 12](img/imatge12.png)
 
 Ens hauria d’aparèixer un cop creada a la llista, junt amb la anteriorment creada.
 
@@ -143,19 +143,19 @@ Ens hauria d’aparèixer un cop creada a la llista, junt amb la anteriorment cr
 
 #### Com fer servir l’extensió del navegador per emplenar automàticament les dades
 
-![Captura 13](img/imatge13)
+![Captura 13](img/imatge13.png)
 
 Per utilitzar l’extensió automàticament en qualsevol web, primer de tot, l’haurem de tindre activa l’extensió i iniciada la sessió amb el compte on tenim totes les contrasenyes guardades.
 
-![Captura 14](img/imatge14)
+![Captura 14](img/imatge14.png)
 
 Després, obrirem per exemple el Netflix, on ja hem guardat una contrasenya.
 
-![Captura 15](img/imatge15)
+![Captura 15](img/imatge15.png)
 
 Quan obrim la web, automàticament ens mostrarà l’opció d’omplir la informació.
 
-![Captura 16](img/imatge16)
+![Captura 16](img/imatge16.png)
 
 Un cop seleccionem l’usuari, Bitwarden emplenarà automàticament el formulari d’inici de sessió.
 
@@ -165,12 +165,12 @@ Un cop seleccionem l’usuari, Bitwarden emplenarà automàticament el formulari
 
 Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (**KDBX** en KeePass o **Exportació** en Bitwarden).
 
-![Captura 17](img/imatge17)
+![Captura 17](img/imatge17.png)
 
 Per fer una còpia de seguretat, haurem d’anar a Bitwarden → Eines → Exportar caixa forta.  
 Podem elegir el format que volem exportar-ho, en el meu cas ho faré amb **.json**.
 
-![Captura 18](img/imatge18)
+![Captura 18](img/imatge18.png)
 
 Al exportar-ho, ens demanarà la contrasenya mestre i seleccionem **“exportar caja fuerte”**.
 
