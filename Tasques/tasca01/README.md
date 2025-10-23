@@ -75,15 +75,3 @@ Aquesta guia ha de ser **clara** i basada en **captures de pantalla** i **instru
 - Recomanació de la **millor pràctica** per emmagatzemar aquesta còpia de forma segura  
   - (clau USB xifrada o emmagatzematge xifrat al núvol).
 
----
-
-## 📦 Lliurament
-
-Es tracta d’una **tasca individual**.
-
-### Què caldrà lliurar?
-
-Dins el repositori `projecte-3`, heu de crear una carpeta anomenada `tasca01`.  
-Dins d’aquesta carpeta haureu de tenir:
-
-
