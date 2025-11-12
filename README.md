@@ -7,12 +7,12 @@ Benvinguts a **EverPia 2: “Sobreviure en una empresa IT”**, una simulació (
 
 Les tasques que caldrà desenvolupar en aquest projecte són les següents:
 
-- **T01** – Gestors de contrasenyes. - [Gestor de contrasenyes](/Tasques/tasca01)
+- **T01** – [Gestor de contrasenyes](/Tasques/tasca01)
 - **T02** – Gestió de l’emmagatzematge. Sessions teòriques.  
-- **T03** – Gestió flexible de discos (LVM i Espais d’emmagatzematge)  
-- **T04** – Serveis de Directori. LDAP  
-- **T05** – Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria  
-- **T06** – Fonaments del servei DNS  
+- **T03** – [Gestió flexible de discos](/Tasques/tasca03)
+- **T04** – [Serveis de Directori. LDAP](/Tasques/tasca04)
+- **T05** – [Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria](/Tasques/tasca05)  
+- **T06** – [Fonaments del servei DNS](/Tasques/tasca06)  
 - **T07** – Instal·lant un servidor de noms  
 - **T08** – Sitemaps i infraestructura d’una pàgina web  
 - **T09** – Càlcul de la petjada  
