@@ -19,6 +19,10 @@ Canviem el nom de hostname de la nostra màquina:
 
 ![Captura 1](img/imatge1.png)
 
+Instal·lem les interfícies NAT i Host-Only.
+
+![Captura 53](img/imatge53.png)
+
 Instal·lem el servei i les utilitats LDAP.
 
 `apt install slapd ldap-utils -y`
