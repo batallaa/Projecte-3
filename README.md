@@ -26,5 +26,5 @@ Els productes finals que s’avaluaran són els següents:
 - **P03**: Rèplica de la web.  
 - **P04**: Configuració servidor DNS  
 - **P05**: Presentació comparativa LVM vs Espais Emmagatzematge  
-- **P06**: Vídeo per parelles fonaments del DNS  
+- **P06**: [Vídeo per parelles fonaments del DNS](https://docs.google.com/videos/d/1nDsazn14ieHFbMnoYQ-cb8VoMmC_jkFC9qfLjhmFbDw/edit?usp=sharing)  
 - **P07**: Infografia de sostenibilitat  
