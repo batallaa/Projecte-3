@@ -30,4 +30,4 @@ Això implica:
 5. Configurar un equip client per tal que utilitzi el directori per autenticar els usuaris.
 
 S’ha redactat un document on s’especifica clarament la feina que s’ha de desenvolupar;  
-el teniu disponible en el **plec de condicions tècniques** (també el podeu trobar al *Moodle* de l’assignatura).
+el teniu disponible en el **[plec de condicions tècniques](https://docs.google.com/document/d/1BMT080sbzxNOQ51nxsDch_-9LA1VKP5gC6OWB6l86_E/edit?usp=sharing)** (també el podeu trobar al *Moodle* de l’assignatura).
