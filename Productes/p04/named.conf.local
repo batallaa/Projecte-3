@@ -1,1 +1,35 @@
+//
+// Do any local configuration here
+//
 
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+//include "/etc/bind/zones.rfc1918";
+
+zone "digicore-04.test" {
+	type master;
+	file "/etc/bin/zones/db.digicore-04.test";
+	allow-transfer {trusted;};
+};
+
+zone "4.168.192.in-addr.arpa" {
+	type master;
+	file "/etc/bind/zones/db.digicore-04.test";
+};
+
+zone "waytoit.test" {
+	type slave;
+	file "waytoit.test";
+	masters {172.0.2.49;};
+};
+
+zone "digicore-04.test" {
+	type slave;
+	file "digicore-04.test";
+	masters {192.168.4.4;};
+};
+
+zone "facebook.com" {
+	type forward;
+	forwarders {192.134.30.12;};
+};
