@@ -13,7 +13,7 @@ Les tasques que caldrà desenvolupar en aquest projecte són les següents:
 - **T04** – [Serveis de Directori. LDAP](/Tasques/tasca04)
 - **T05** – [Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria](/Tasques/tasca05)  
 - **T06** – [Fonaments del servei DNS](/Tasques/tasca06)  
-- **T07** – Instal·lant un servidor de noms  
+- **T07** – [Instal·lant un servidor de noms](/Tasques/tasca07)
 - **T08** – Sitemaps i infraestructura d’una pàgina web  
 - **T09** – Càlcul de la petjada  
 
