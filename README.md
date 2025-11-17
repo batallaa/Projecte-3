@@ -24,7 +24,7 @@ Els productes finals que s’avaluaran són els següents:
 - **P01**: Kanban del projecte.  
 - **P02**: Repositori GitHub de tota la documentació del projecte  
 - **P03**: Rèplica de la web.  
-- **P04**: Configuració servidor DNS  
+- **P04**: [Configuració servidor DNS](/Productes/Producte01)
 - **P05**: Presentació comparativa LVM vs Espais Emmagatzematge  
 - **P06**: [Vídeo per parelles fonaments del DNS](https://docs.google.com/videos/d/1nDsazn14ieHFbMnoYQ-cb8VoMmC_jkFC9qfLjhmFbDw/edit?usp=sharing)  
 - **P07**: Infografia de sostenibilitat  
