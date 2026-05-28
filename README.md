@@ -5,8 +5,8 @@ Benvinguts a **EverPia 2: “Sobreviure en una empresa IT”**, una simulació (
 
 ## Problema i solució
 
-**Problema:** L'empresa no tenia gestió centralitzada de contrasenyes, els discos eren rígids i difícils d'escalar, i no tenien servidor DNS propi.
-**Solució:** Vam implementar un gestor de contrasenyes corporatiu, vam configurar volums lògics amb LVM per poder redimensionar sense perdre dades i vam desplegar un servidor DNS propi des de zero.
+- **Problema:** L'empresa no tenia gestió centralitzada de contrasenyes, els discos eren rígids i difícils d'escalar, i no tenien servidor DNS propi.
+- **Solució:** Vam implementar un gestor de contrasenyes corporatiu, vam configurar volums lògics amb LVM per poder redimensionar sense perdre dades i vam desplegar un servidor DNS propi des de zero.
 
 ## TASQUES A DESENVOLUPAR
 
